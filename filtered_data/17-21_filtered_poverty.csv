@@ -1,0 +1,305 @@
+TimePeriod,Geography,Percent
+2017-21,Mott Haven-Port Morris,43.7
+2017-21,Melrose,40.7
+2017-21,Hunts Point,34.3
+2017-21,Longwood,32.0
+2017-21,Morrisania,35.7
+2017-21,Claremont Village-Claremont (East),43.2
+2017-21,Crotona Park East,29.4
+2017-21,Concourse-Concourse Village,31.9
+2017-21,Highbridge,33.9
+2017-21,Mount Eden-Claremont (West),31.8
+2017-21,University Heights (South)-Morris Heights,34.4
+2017-21,Mount Hope,30.2
+2017-21,Fordham Heights,33.2
+2017-21,West Farms,44.8
+2017-21,Tremont,36.3
+2017-21,Belmont,39.6
+2017-21,University Heights (North)-Fordham,25.8
+2017-21,Bedford Park,24.8
+2017-21,Norwood,29.3
+2017-21,Kingsbridge Heights-Van Cortlandt Village,25.1
+2017-21,Kingsbridge-Marble Hill,26.6
+2017-21,Riverdale-Spuyten Duyvil,6.8
+2017-21,Soundview-Bruckner-Bronx River,30.1
+2017-21,Soundview-Clason Point,24.4
+2017-21,Castle Hill-Unionport,21.6
+2017-21,Parkchester,21.0
+2017-21,Westchester Square,22.0
+2017-21,Throgs Neck-Schuylerville,14.4
+2017-21,Pelham Bay-Country Club-City Island,9.8
+2017-21,Co-op City,9.5
+2017-21,Pelham Parkway-Van Nest,16.7
+2017-21,Morris Park,11.5
+2017-21,Pelham Gardens,12.6
+2017-21,Allerton,24.6
+2017-21,Williamsbridge-Olinville,21.0
+2017-21,Eastchester-Edenwald-Baychester,15.1
+2017-21,Wakefield-Woodlawn,15.2
+2017-21,Greenpoint,9.3
+2017-21,Williamsburg,15.8
+2017-21,South Williamsburg,50.3
+2017-21,East Williamsburg,25.4
+2017-21,Brooklyn Heights,4.0
+2017-21,Downtown Brooklyn-DUMBO-Boerum Hill,16.0
+2017-21,Fort Greene,18.5
+2017-21,Clinton Hill,9.4
+2017-21,Bedford-Stuyvesant (West),26.0
+2017-21,Bedford-Stuyvesant (East),22.2
+2017-21,Bushwick (West),20.7
+2017-21,Bushwick (East),24.3
+2017-21,Cypress Hills,19.3
+2017-21,East New York (North),25.5
+2017-21,East New York-New Lots,25.3
+2017-21,Spring Creek-Starrett City,25.2
+2017-21,East New York-City Line,26.0
+2017-21,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,14.5
+2017-21,Park Slope,5.1
+2017-21,Windsor Terrace-South Slope,7.9
+2017-21,Sunset Park (West),16.4
+2017-21,Sunset Park (Central),23.2
+2017-21,Prospect Heights,7.3
+2017-21,Crown Heights (North),20.5
+2017-21,Crown Heights (South),17.4
+2017-21,Prospect Lefferts Gardens-Wingate,16.1
+2017-21,Bay Ridge,11.4
+2017-21,Dyker Heights,18.5
+2017-21,Bensonhurst,16.8
+2017-21,Bath Beach,15.3
+2017-21,Gravesend (West),19.1
+2017-21,Sunset Park (East)-Borough Park (West),27.4
+2017-21,Borough Park,34.5
+2017-21,Kensington,14.5
+2017-21,Mapleton-Midwood (West),19.7
+2017-21,Gravesend (South),20.3
+2017-21,Coney Island-Sea Gate,27.4
+2017-21,Brighton Beach,23.0
+2017-21,Flatbush,13.7
+2017-21,Flatbush (West)-Ditmas Park-Parkville,15.5
+2017-21,Midwood,15.5
+2017-21,Gravesend (East)-Homecrest,15.9
+2017-21,Madison,15.5
+2017-21,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,13.6
+2017-21,Ocean Hill,27.3
+2017-21,Brownsville,37.2
+2017-21,East Flatbush-Erasmus,15.2
+2017-21,East Flatbush-Farragut,10.1
+2017-21,East Flatbush-Rugby,12.3
+2017-21,East Flatbush-Remsen Village,18.7
+2017-21,Flatlands,10.1
+2017-21,Marine Park-Mill Basin-Bergen Beach,5.8
+2017-21,Canarsie,13.0
+2017-21,Financial District-Battery Park City,5.4
+2017-21,Tribeca-Civic Center,3.9
+2017-21,SoHo-Little Italy-Hudson Square,11.1
+2017-21,Greenwich Village,7.9
+2017-21,West Village,6.9
+2017-21,Chinatown-Two Bridges,32.4
+2017-21,Lower East Side,24.9
+2017-21,East Village,24.3
+2017-21,Chelsea-Hudson Yards,11.5
+2017-21,Hell's Kitchen,14.0
+2017-21,Midtown South-Flatiron-Union Square,10.1
+2017-21,Midtown-Times Square,10.4
+2017-21,Stuyvesant Town-Peter Cooper Village,10.4
+2017-21,Gramercy,10.8
+2017-21,Murray Hill-Kips Bay,7.9
+2017-21,East Midtown-Turtle Bay,6.5
+2017-21,Upper West Side-Lincoln Square,9.9
+2017-21,Upper West Side (Central),7.8
+2017-21,Upper West Side-Manhattan Valley,17.0
+2017-21,Upper East Side-Lenox Hill-Roosevelt Island,7.7
+2017-21,Upper East Side-Carnegie Hill,4.9
+2017-21,Upper East Side-Yorkville,7.0
+2017-21,Morningside Heights,22.3
+2017-21,Manhattanville-West Harlem,26.7
+2017-21,Hamilton Heights-Sugar Hill,24.0
+2017-21,Harlem (South),18.8
+2017-21,Harlem (North),25.1
+2017-21,East Harlem (South),29.0
+2017-21,East Harlem (North),32.3
+2017-21,Washington Heights (South),19.9
+2017-21,Washington Heights (North),14.8
+2017-21,Inwood,15.3
+2017-21,Astoria (North)-Ditmars-Steinway,9.4
+2017-21,Old Astoria-Hallets Point,19.5
+2017-21,Astoria (Central),10.7
+2017-21,Astoria (East)-Woodside (North),9.8
+2017-21,Queensbridge-Ravenswood-Dutch Kills,16.5
+2017-21,Long Island City-Hunters Point,6.0
+2017-21,Sunnyside,10.3
+2017-21,Woodside,7.3
+2017-21,Jackson Heights,13.2
+2017-21,East Elmhurst,13.6
+2017-21,North Corona,15.3
+2017-21,Elmhurst,10.1
+2017-21,Corona,19.2
+2017-21,Maspeth,10.7
+2017-21,Ridgewood,12.3
+2017-21,Glendale,7.9
+2017-21,Middle Village,6.4
+2017-21,Rego Park,11.6
+2017-21,Forest Hills,7.1
+2017-21,College Point,10.6
+2017-21,Whitestone-Beechhurst,7.9
+2017-21,Bay Terrace-Clearview,6.4
+2017-21,Murray Hill-Broadway Flushing,14.8
+2017-21,East Flushing,16.7
+2017-21,Queensboro Hill,14.3
+2017-21,Flushing-Willets Point,20.9
+2017-21,Kew Gardens Hills,11.9
+2017-21,Pomonok-Electchester-Hillcrest,13.8
+2017-21,Fresh Meadows-Utopia,9.4
+2017-21,Jamaica Estates-Holliswood,8.9
+2017-21,Jamaica Hills-Briarwood,14.5
+2017-21,Kew Gardens,8.5
+2017-21,Richmond Hill,10.6
+2017-21,South Richmond Hill,12.7
+2017-21,Ozone Park (North),14.7
+2017-21,Woodhaven,9.9
+2017-21,South Ozone Park,9.7
+2017-21,Ozone Park,11.8
+2017-21,Howard Beach-Lindenwood,7.7
+2017-21,Auburndale,8.5
+2017-21,Bayside,9.0
+2017-21,Douglaston-Little Neck,7.3
+2017-21,Oakland Gardens-Hollis Hills,7.7
+2017-21,Jamaica,15.7
+2017-21,South Jamaica,13.4
+2017-21,Baisley Park,11.4
+2017-21,Springfield Gardens (North)-Rochdale Village,9.1
+2017-21,St. Albans,8.6
+2017-21,Hollis,9.0
+2017-21,Glen Oaks-Floral Park-New Hyde Park,7.6
+2017-21,Bellerose,7.3
+2017-21,Queens Village,7.7
+2017-21,Cambria Heights,5.3
+2017-21,Laurelton,5.4
+2017-21,Springfield Gardens (South)-Brookville,8.9
+2017-21,Rosedale,8.8
+2017-21,Far Rockaway-Bayswater,18.3
+2017-21,Rockaway Beach-Arverne-Edgemere,22.1
+2017-21,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,10.1
+2017-21,St. George-New Brighton,18.5
+2017-21,Tompkinsville-Stapleton-Clifton-Fox Hills,25.5
+2017-21,Rosebank-Shore Acres-Park Hill,14.4
+2017-21,West New Brighton-Silver Lake-Grymes Hill,9.9
+2017-21,Westerleigh-Castleton Corners,5.1
+2017-21,Port Richmond,22.0
+2017-21,Mariner's Harbor-Arlington-Graniteville,16.8
+2017-21,Grasmere-Arrochar-South Beach-Dongan Hills,11.3
+2017-21,New Dorp-Midland Beach,8.5
+2017-21,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,11.0
+2017-21,New Springville-Willowbrook-Bulls Head-Travis,10.0
+2017-21,Oakwood-Richmondtown,7.1
+2017-21,Great Kills-Eltingville,6.4
+2017-21,Arden Heights-Rossville,4.3
+2017-21,Annadale-Huguenot-Prince's Bay-Woodrow,6.0
+2017-21,Tottenville-Charleston,6.3
+2017-21,Melrose-Mott Haven-Port Morris (CD 1),42.4
+2017-21,Longwood-Hunts Point (CD 2),32.6
+2017-21,Morrisania-Crotona Park East (CD 3),35.7
+2017-21,Highbridge-Concourse (CD 4),32.3
+2017-21,Morris Heights-Mount Hope (CD 5),32.6
+2017-21,Tremont-Belmont-West Farms (CD 6),39.5
+2017-21,Fordham-Bedford Park-Norwood (CD 7),26.4
+2017-21,Riverdale-Kingsbridge-Marble Hill (CD 8),18.0
+2017-21,Soundview-Parkchester (CD 9),25.4
+2017-21,Co-op City-Throgs Neck (CD 10),13.0
+2017-21,Pelham Parkway-Morris Park (CD 11),17.1
+2017-21,Wakefield-Williamsbridge-Eastchester (CD 12),17.3
+2017-21,Williamsburg-Greenpoint (CD 1),25.2
+2017-21,Downtown Brooklyn-Fort Greene (CD 2),13.0
+2017-21,Bedford-Stuyvesant (CD 3),24.1
+2017-21,Bushwick (CD 4),22.6
+2017-21,East New York-Cypress Hills (CD 5),24.2
+2017-21,Park Slope-Carroll Gardens (CD 6),9.9
+2017-21,Sunset Park-Windsor Terrace (CD 7),17.1
+2017-21,Crown Heights (North) (CD 8),17.6
+2017-21,Crown Heights (South) (CD 9),16.8
+2017-21,Bay Ridge-Dyker Heights (CD 10),13.8
+2017-21,Bensonhurst-Bath Beach (CD 11),17.3
+2017-21,Borough Park-Kensington (CD 12),26.3
+2017-21,Coney Island-Brighton Beach (CD 13),24.3
+2017-21,Flatbush-Midwood (CD 14),14.7
+2017-21,Sheepshead Bay-Gravesend (East) (CD 15),14.8
+2017-21,Ocean Hill-Brownsville (CD 16),32.7
+2017-21,East Flatbush (CD 17),14.1
+2017-21,Canarsie-Flatlands (CD 18),10.4
+2017-21,Financial District-Tribeca (CD 1),4.9
+2017-21,Greenwich Village-SoHo (CD 2),8.4
+2017-21,Lower East Side-Chinatown (CD 3),26.7
+2017-21,Chelsea-Hell's Kitchen (CD 4),12.7
+2017-21,Midtown-Flatiron-Union Square (CD 5),10.3
+2017-21,East Midtown-Murray Hill (CD 6),8.4
+2017-21,Upper West Side (CD 7),10.6
+2017-21,Upper East Side-Roosevelt Island (CD 8),6.7
+2017-21,Morningside Heights-Hamilton Heights (CD 9),24.1
+2017-21,Harlem (CD 10),22.7
+2017-21,East Harlem (CD 11),30.7
+2017-21,Washington Heights-Inwood (CD 12),16.9
+2017-21,Astoria-Queensbridge (CD 1),11.7
+2017-21,Long Island City-Sunnyside-Woodside (CD 2),8.3
+2017-21,Jackson Heights-East Elmhurst (CD 3),13.8
+2017-21,Elmhurst-Corona (CD 4),13.9
+2017-21,Ridgewood-Maspeth-Middle Village (CD 5),9.9
+2017-21,Forest Hills-Rego Park (CD 6),8.2
+2017-21,Flushing-Murray Hill-Whitestone (CD 7),14.3
+2017-21,Fresh Meadows-Hillcrest-Briarwood (CD 8),12.2
+2017-21,Kew Gardens-Richmond Hill-Woodhaven (CD 9),11.1
+2017-21,South Ozone Park-Howard Beach (CD 10),9.7
+2017-21,Auburndale-Bayside-Douglaston (CD 11),8.2
+2017-21,Jamaica-St. Albans-Hollis (CD 12),11.6
+2017-21,Queens Village-Bellerose-Rosedale (CD 13),7.4
+2017-21,The Rockaways (CD 14),18.0
+2017-21,North Shore (CD 1),14.5
+2017-21,Mid-Island (CD 2),10.2
+2017-21,South Shore (CD 3),6.0
+2017-21,Kingsbridge - Riverdale,16.2
+2017-21,Northeast Bronx,14.8
+2017-21,Fordham - Bronx Pk,27.7
+2017-21,Pelham - Throgs Neck,20.3
+2017-21,Crotona -Tremont,33.6
+2017-21,High Bridge - Morrisania,35.8
+2017-21,Hunts Point - Mott Haven,36.3
+2017-21,Greenpoint,17.1
+2017-21,Downtown - Heights - Slope,13.7
+2017-21,Bedford Stuyvesant - Crown Heights,21.6
+2017-21,East New York,24.3
+2017-21,Sunset Park,20.8
+2017-21,Borough Park,21.8
+2017-21,East Flatbush - Flatbush,13.3
+2017-21,Canarsie - Flatlands,11.6
+2017-21,Bensonhurst - Bay Ridge,14.4
+2017-21,Coney Island - Sheepshead Bay,18.7
+2017-21,Williamsburg - Bushwick,27.1
+2017-21,Washington Heights,18.4
+2017-21,Central Harlem - Morningside Heights,23.9
+2017-21,East Harlem,31.9
+2017-21,Upper West Side,11.0
+2017-21,Upper East Side,6.8
+2017-21,Chelsea - Clinton,11.9
+2017-21,Gramercy Park - Murray Hill,7.9
+2017-21,Greenwich Village - SoHo,9.4
+2017-21,Union Square - Lower East Side,22.0
+2017-21,Lower Manhattan,9.6
+2017-21,Long Island City - Astoria,11.0
+2017-21,West Queens,12.5
+2017-21,Flushing - Clearview,14.1
+2017-21,Bayside - Little Neck,7.8
+2017-21,Ridgewood - Forest Hills,9.1
+2017-21,Fresh Meadows,11.5
+2017-21,Southwest Queens,10.4
+2017-21,Jamaica,12.0
+2017-21,Southeast Queens,6.2
+2017-21,Rockaways,18.0
+2017-21,Port Richmond,17.0
+2017-21,Stapleton - St. George,13.1
+2017-21,Willowbrook,9.3
+2017-21,South Beach - Tottenville,6.7
+2017-21,Bronx,26.5
+2017-21,Brooklyn,18.8
+2017-21,Manhattan,15.6
+2017-21,Queens,11.4
+2017-21,Staten Island,10.3
+2017-21,New York City,17.0
